@@ -1,8 +1,8 @@
-cd
-mkdir
-ls
-pwd
-rm
-cat
-vi
-touch
+- cd
+- ls
+- pwd
+- touch
+- mkdir
+- rm
+- cat
+- vi

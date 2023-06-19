@@ -1,0 +1,27 @@
+    1  ls
+    2  cd /root
+    3  ls
+    4  cd server_lesson
+    5  ls
+    6  cd linux_practice2
+    7  ls
+    8  cd trach
+    9  ls documents
+   10  ls trash
+   11  touch .gitignore
+   12  vi .gitignore
+   13  ls .gitignore
+   14  cat .gitignore
+   15  history 300 > linux_practice2/exec_command.log
+   16  history 300 > exec_command.log
+   17  mv exec_command.log linux_practice2/
+   18  mv exec_command.log linux_practice2/exec_command.log
+   19  mv exec_command.log linux_practice2/
+   20  ls
+   21  mv exec_command.log linux_practice2
+   22  ls
+   23  ls linux_practice2
+   24  cat linux_practice2
+   25  rm -r linux_practice2
+   26  ls
+   27  history 300 > exec_command.log
